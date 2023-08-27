@@ -1,0 +1,16 @@
+{
+  "name": "sesi-7",
+  "version": "1.0.0",
+  "description": "sesi 7 cuy univesity backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sesi7",
+    "dea",
+    "afrijal"
+  ],
+  "author": "dafa riqy",
+  "license": "ISC"
+}
